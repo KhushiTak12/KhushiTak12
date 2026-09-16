@@ -19,12 +19,9 @@
 ## 👩‍💻 About Me
 
 ```yaml
-name: Khushi Tak
-role: Full Stack Developer
-focus: MERN Stack Development
-learning: Backend Development & APIs
-interests:
-  - Web Development
-  - Full Stack Applications
-  - REST APIs
-  - Database Management
+Name: Khushi Tak
+Role: MERN Stack Developer & CS Student
+Education: B.Tech Computer Science (3rd Year) @ Shri Guru Sandipani Group of Institute & Science, Ujjain
+Looking_to_collaborate: [Open-source projects, MERN stack applications]
+Ask_me_about: [React.js, Node.js, Express, MongoDB]
+Fun_fact: "I turn complex problems into clean, intuitive interfaces"
