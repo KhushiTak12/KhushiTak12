@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Khushi Tak
 
-<!--
-**KhushiTak12/KhushiTak12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | MERN Stack Developer | Computer Science Student
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:khushitak.in@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/KhushiTak12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/khushi-tak-63b35a400">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+```yaml
+name: Khushi Tak
+role: Full Stack Developer
+focus: MERN Stack Development
+learning: Backend Development & APIs
+interests:
+  - Web Development
+  - Full Stack Applications
+  - REST APIs
+  - Database Management
