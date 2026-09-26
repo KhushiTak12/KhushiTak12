@@ -24,6 +24,8 @@
 
 ## 👩‍💻 About Me
 
+I'm a motivated MERN Stack Developer in the final year of my B.Tech in Computer Science at Shri Guru Sandipani Institute of Science & Technology, Ujjain. I enjoy turning real-world problems into clean, responsive interfaces backed by reliable APIs.
+
 ```yaml
 Name: Khushi Tak
 Role: MERN Stack Developer & CS Student
