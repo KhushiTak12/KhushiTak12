@@ -7,7 +7,6 @@
 
 </div>
 
-
 <p align="center">
   <a href="mailto:khushitak.in@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -64,3 +63,57 @@ ask_me_about: [React.js, Node.js, Express.js, MongoDB, REST APIs, Socket.IO]
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
+## 🚀 Featured Projects
+
+### 🎓 Student Management System
+
+A full-stack MERN application designed to manage student records and academic information efficiently.
+
+* Student registration and management
+* Secure authentication with JWT
+* Admin/Staff functionality
+* Student search and course filtering
+* Dashboard for managing student data
+* RESTful APIs with Express.js
+* MongoDB Atlas database
+
+**Tech:** `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
+
+[Repo](https://github.com/KhushiTak12/Student-Management-System)
+
+---
+
+### ✅ To-Do App
+
+A full-stack task management application for creating, updating, tracking, and deleting tasks.
+
+* Create and manage tasks
+* Update and delete tasks
+* RESTful CRUD APIs
+* MongoDB database integration
+* MVC architecture
+* Express.js middleware
+* Responsive frontend interface
+
+**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JavaScript` `HTML5` `CSS3`
+
+[Repo](YOUR-TODO-APP-GITHUB-LINK)
+
+---
+
+### 🎬 Movie Discovery App
+
+A modern React-based movie discovery application powered by the TMDB API.
+
+* Browse popular and trending movies
+* Search movies
+* Movie details and information
+* Streaming/provider links
+* Responsive user interface
+* Modern React UI with Vite
+
+**Tech:** `React.js` `JavaScript` `CSS3` `Vite` `TMDB API`
+
+[Repo](YOUR-MOVIE-DISCOVERY-GITHUB-LINK)
+
+---
