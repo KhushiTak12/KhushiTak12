@@ -123,5 +123,25 @@ A modern React-based movie discovery application powered by the TMDB API.
   <img src="https://img.shields.io/badge/-View%20Repo-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-
 ---
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KhushiTak12&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiTak12&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=KhushiTak12&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" />
+
+</div>
+
+## 🎯 Current Goals
+
+- 🌟 Deepen my knowledge of **MERN Stack Development**
+- 🧠 Build more **scalable and AI-integrated web applications**
+- 🚀 Improve my skills in **React.js, Node.js, Express.js and MongoDB**
+- 🤝 Contribute to **open-source projects** and collaborate with developers
+- 💼 Prepare for a **MERN Stack Developer internship or role**
