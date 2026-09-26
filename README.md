@@ -80,7 +80,9 @@ A full-stack MERN application designed to manage student records and academic in
 
 **Tech:** `React.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
 
-[Repo](https://github.com/KhushiTak12/Student-Management-System)
+<a href="https://github.com/KhushiTak12/Student-Management-System">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repo-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
