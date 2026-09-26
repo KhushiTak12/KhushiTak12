@@ -100,7 +100,9 @@ A full-stack task management application for creating, updating, tracking, and d
 
 **Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JavaScript` `HTML5` `CSS3`
 
-[Repo](YOUR-TODO-APP-GITHUB-LINK)
+<a href="https://github.com/KhushiTak12/To-Do-app">
+  <img src="https://img.shields.io/badge/-View%20Repo-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -117,6 +119,9 @@ A modern React-based movie discovery application powered by the TMDB API.
 
 **Tech:** `React.js` `JavaScript` `CSS3` `Vite` `TMDB API`
 
-[Repo](YOUR-MOVIE-DISCOVERY-GITHUB-LINK)
+<a href="https://github.com/KhushiTak12/movie-discovery-app">
+  <img src="https://img.shields.io/badge/-View%20Repo-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 
 ---
