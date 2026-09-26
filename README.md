@@ -171,5 +171,5 @@ I'm always open to connecting with developers, collaborating on interesting proj
 </div>
 
 <p align="center">
-⭐ Thanks for stopping by — feel free to explore my repositories! ⭐</p>s
+⭐ Thanks for stopping by — feel free to explore my repositories! ⭐</p>
 
