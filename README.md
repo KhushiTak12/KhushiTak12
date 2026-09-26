@@ -173,3 +173,4 @@ I'm always open to connecting with developers, collaborating on interesting proj
 <p align="center">
 ⭐ Thanks for stopping by — feel free to explore my repositories! ⭐</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
