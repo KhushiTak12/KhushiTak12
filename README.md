@@ -33,3 +33,7 @@ education: B.Tech Computer Science (Final Year) @ SGSIST, Ujjain
 currently_building: AI-integrated full-stack web applications
 looking_to_collaborate_on: [MERN Stack Apps, Full-Stack Web Development, Open Source]
 ask_me_about: [React.js, Node.js, Express.js, MongoDB, REST APIs, Socket.IO]
+
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> Tech Stack
+
+<div align="center">
