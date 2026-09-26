@@ -145,3 +145,30 @@ A modern React-based movie discovery application powered by the TMDB API.
 - 🚀 Improve my skills in **React.js, Node.js, Express.js and MongoDB**
 - 🤝 Contribute to **open-source projects** and collaborate with developers
 - 💼 Prepare for a **MERN Stack Developer internship or role**
+
+## 💡 Favorite Quote
+
+> *"Build with purpose, learn with curiosity, and keep improving every day."*
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:khushitak.in@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/KhushiTak12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/khushi-tak-63b35a400">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+I'm always open to connecting with developers, collaborating on interesting projects, and learning new things together.
+
+</div>
+
+⭐ Thanks for stopping by — feel free to explore my repositories! ⭐
+
